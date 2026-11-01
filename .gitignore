@@ -1,0 +1,16 @@
+# MNIST data (download separately, see README)
+*-ubyte
+*-ubyte.gz
+
+# Visual Studio build output and per-user files
+x64/
+Debug/
+Release/
+.vs/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
